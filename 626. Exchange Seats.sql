@@ -8,3 +8,7 @@ else
     end as id, student
 from Seat
 order by id;
+
+
+
+
